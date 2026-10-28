@@ -300,8 +300,3 @@ training set. The positioning checkpoint also stores the target mean and standar
 - Noise and packet loss are simulated (white noise, independent packet losses), not measured on a real network.
 
 ---
-
-## Acknowledgements
-
-Dataset and project description: ECE 553/653 Neural Networks, Project 1: Vehicle Positioning.
-Built with [PyTorch](https://pytorch.org) and [scikit-learn](https://scikit-learn.org).
