@@ -1,0 +1,13 @@
+# Verified on the lab server (Python 3.10, NVIDIA RTX 5090)
+torch==2.14.0
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.9
+seaborn==0.13.2
+pandas==2.3.3
+
+# Jupyter runtime
+notebook>=7.0
+ipykernel>=6.0
+nbconvert>=7.0
